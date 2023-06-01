@@ -3,4 +3,10 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: antiquewhite;
 }
+
+footer{
+  text-align: center;
+}
+
